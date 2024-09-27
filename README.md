@@ -15,13 +15,13 @@
 
 ### Langkah 1: Clone Repository
 ```
-git clone https://github.com/ubettku/pdamku.git
+https://github.com/FhadilHendriansah/kpufadil.git
 ```
 
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 ```
-cd laravel-pdamku
+cd laravel-kpufadil
 ```
 
 - Setelah Itu Masuk Ke dalam Visual Studio Code
@@ -45,7 +45,7 @@ cp .env.example .env
  DB_CONNECTION=mysql
  DB_HOST=127.0.0.1
  DB_PORT=3306
- DB_DATABASE=ubettku
+ DB_DATABASE=ujikomfadiljaidi
  DB_USERNAME=root
  DB_PASSWORD=
 ```
